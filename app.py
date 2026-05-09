@@ -7,7 +7,8 @@ from components.sidebar import sidebar_navigation
 st.set_page_config(
     page_title="Rescue SL",
     page_icon="🚨",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 load_css()
