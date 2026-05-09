@@ -373,7 +373,7 @@ def load_css():
         section[data-testid="stSidebarNa"] {
             display:none
         }
-        
+
         </style>
         """,
         unsafe_allow_html=True
