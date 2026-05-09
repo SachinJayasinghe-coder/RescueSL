@@ -21,12 +21,6 @@ def load_css():
             color: white;
         }
 
-        /* REMOVE STREAMLIT HEADER */
-
-        header {
-            visibility: hidden;
-        }
-
         footer {
             visibility: hidden;
         }
