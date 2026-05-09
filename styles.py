@@ -370,6 +370,10 @@ def load_css():
             1px solid rgba(255,255,255,0.12) !important;
         }
 
+        section[data-testid="stSidebarNa"] {
+            display:none
+        }
+        
         </style>
         """,
         unsafe_allow_html=True
